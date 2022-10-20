@@ -2,8 +2,7 @@
 
  <div>
    <a href="https://github.com/cassianoappdev2000">
-   <img height="180em"src="https://githubreadmestats.vercel.app/apiusername=cassianoappdev2000&show_icons=true&theme=tokyonight&include_all_commits=
-   true&count_private=true"/>
+   <img height="180em"src="https://githubreadmestats.vercel.app/apiusername=cassianoappdev2000&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassianoappdev2000&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
